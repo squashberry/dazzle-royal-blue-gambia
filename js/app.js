@@ -1,5 +1,5 @@
 /* =========================================================
-   FAJARA GARDEN APP
+   DAZZLE ROYAL BLUE FINE DINING APP
 ========================================================= */
 
 
@@ -1648,7 +1648,7 @@ if (checkoutButton) {
                 );
 
             const message =
-                `Hello Fajara Garden 👋\n\n` +
+                `Hello Dazzle Royal Blue Fine Dining 👋\n\n` +
                 `I'd like to place this order:\n\n` +
                 `${orderLines}\n\n` +
                 `Total: D${total}\n\n` +
@@ -2945,7 +2945,7 @@ function setupReservation() {
 
             const reservationMessage =
                 encodeURIComponent(
-                    "Hello Fajara Garden 👋 I would like to reserve a table."
+                    "Hello Dazzle Royal Blue Fine Dining 👋 I would like to reserve a table."
                 );
 
 
@@ -3093,7 +3093,7 @@ function setupGardenAIIntro() {
     if (gardenAIDescription) {
 
         gardenAIDescription.textContent =
-            `I'll check what's available for ${period.label} at Fajara Garden, ask you a few quick questions and build a recommendation around what you actually like.`;
+            `I'll check what's available for ${period.label} at Dazzle Royal Blue Fine Dining, ask you a few quick questions and build a recommendation around what you actually like.`;
 
     }
 
@@ -4630,7 +4630,7 @@ function setupDemoSaleBanner() {
 
             <p>
 
-                This Fajara Garden website was
+                This Dazzle Royal Blue Fine Dining website was
                 designed by Israel from
                 <strong>Squashberry Co.</strong>
                 and is available for purchase.
